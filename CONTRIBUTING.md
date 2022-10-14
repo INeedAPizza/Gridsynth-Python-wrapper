@@ -4,3 +4,5 @@ We have bug report and feature request templates, please use those if it fits. I
 
 ## Pull Requests
 I do not have a template yet. I will update this as soon as I can. I would like to see if there are best practices for code in PyPi.
+
+Greetings from the pizza side
